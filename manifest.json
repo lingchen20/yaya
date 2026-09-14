@@ -1,6 +1,6 @@
 {
-  "name": "微信模拟器",
-  "short_name": "微信",
+  "name": "芽芽机",
+  "short_name": "芽芽机",
   "description": "AI角色扮演微信模拟器",
   "start_url": "./index.html",
   "display": "standalone",
@@ -9,13 +9,13 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://i.postimg.cc/cHkpw15R/IMG-20260914-235622.jpg",
+      "src": "https://i.postimg.cc/wvBv9vmj/Screenshot-2026-09-14-23-36-10-288-com-android-chrome-edit.jpg",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://i.postimg.cc/cHkpw15R/IMG-20260914-235622.jpg",
+      "src": "https://i.postimg.cc/wvBv9vmj/Screenshot-2026-09-14-23-36-10-288-com-android-chrome-edit.jpg",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
